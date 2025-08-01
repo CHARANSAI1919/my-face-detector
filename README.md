@@ -1,1 +1,2 @@
 # my-face-detector
+This project is a custom face detection system built using the YOLO (You Only Look Once) object detection framework. The model is trained specifically to recognize and detect my own face in images, videos, or real-time webcam feeds. It uses a custom-labeled dataset and delivers fast, accurate results suitable for personal security, smart camera applications, or human-computer interaction systems.
